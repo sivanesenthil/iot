@@ -1,3 +1,3 @@
-# iot
-Recent Technologies using Raspberrypi 
-telegram bot with nodemcu
+# Iot
+Recent Technologies using Raspberrypi and
+Telegram bot with nodemcu
